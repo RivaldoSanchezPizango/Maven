@@ -1,0 +1,13 @@
+[2024-09-27 22:29:52] [INFO ] [DentistDaoH2:38] Se inicio una operacion de guardado de odontólogo.
+[2024-09-27 22:29:52] [INFO ] [DentistDaoH2:51] Este es el odontólogo que se guardo: model.Dentist@123ef382
+[2024-09-27 22:29:52] [INFO ] [DentistDaoH2:38] Se inicio una operacion de guardado de odontólogo.
+[2024-09-27 22:29:52] [INFO ] [DentistDaoH2:51] Este es el odontólogo que se guardo: model.Dentist@6e20b53a
+[2024-09-27 22:29:52] [INFO ] [DentistDaoH2:38] Se inicio una operacion de guardado de odontólogo.
+[2024-09-27 22:29:52] [INFO ] [DentistDaoH2:51] Este es el odontólogo que se guardo: model.Dentist@3e58a80e
+[2024-09-27 22:29:52] [INFO ] [DentistDaoH2:71] Iniciando la bsuqueda de un odontologo
+[2024-09-27 22:29:52] [INFO ] [DentistDaoH2:86] Consultamos el odontologo con id: 2 es: model.Dentist@67c27493
+[2024-09-27 22:29:52] [INFO ] [DentistDaoH2:108] Iniciando la actualizacion de un odontólogo
+[2024-09-27 22:29:53] [WARN ] [DentistDaoH2:148] Cudiado se elimino el odontologo con id: 2
+[2024-09-27 22:29:53] [INFO ] [DentistDaoH2:168] Iniciando la busqueda de todos los odontólogos
+[2024-09-27 22:29:53] [INFO ] [DentistDaoH2:188] Encontramos los odontologos con ID: 1 ,matricula: 132 ,nombre: Loisi ,apellido: Pizango
+[2024-09-27 22:29:53] [INFO ] [DentistDaoH2:188] Encontramos los odontologos con ID: 3 ,matricula: 543 ,nombre: Nelia ,apellido: Lozano
